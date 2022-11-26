@@ -5,8 +5,8 @@ Mashable is a digital media platform for news articles and entertainment. Like m
 In this project, we have explored and analyzed data for Mashable articles to develop classification models and predict the popularity of articles. This can help Mashable increase profits from advertisements by determining the article popularity before publication and setting a framework to sells ads accordingly.
 
 ## Project Objective:
-•	Predict the popularity of articles prior to publication by implementing machine learning models to attract advertisers to buy ad space
-•	Evaluate best model and perform cost-benefit analysis to determine the model which can generate maximum revenue from advertising
+Predict the popularity of articles prior to publication by implementing machine learning models to attract advertisers to buy ad space
+Evaluate best model and perform cost-benefit analysis to determine the model which can generate maximum revenue from advertising
 
 ## Data
 Features-61
