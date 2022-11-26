@@ -75,10 +75,32 @@ Since Random Forest model had highest accuracy, we performed hyper-parameter tun
 ## Cost-Based Analysis
 A cost-benefit analysis was performed to determine the best model and prevent costly misclassifications. We have assigned costs to the following metrics for wrongly and correctly predicting the classification problem:
 
-•	True Positive
+•	True Positive (TP)
 
-•	False Positive
+•	False Positive (FP)
 
-•	True Negative
+•	True Negative (TN)
 
-•	False Negative
+•	False Negative (FN)
+
+
+The following rates for profit and loss have been assigned to the count of TP, FP, TN, FN
+
+![image](https://user-images.githubusercontent.com/58203363/204113085-1a8c0d53-e325-4f95-adb5-848a3df3e46f.png)
+
+### Observations:
+
+•	Profitability in no model scenario, with flat rate of $400 for all articles irrespective of popularity
+
+•	The red line indicates - No Model Scenario
+
+•	Naive bayes cost performance gives negative lift, based on the cost matrix
+
+•	Form the 4 supervised learning models, random forest has the best profitability. (6.47 mil from 3 mil)
+
+![image](https://user-images.githubusercontent.com/58203363/204113232-d76d8272-e9f6-4a87-85cd-cca8905ae507.png)
+
+
+
+
+
