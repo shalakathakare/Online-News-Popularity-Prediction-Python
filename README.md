@@ -32,16 +32,23 @@ We have used number of article shares as our target variable to determine popula
       -	Articles with Share > 1500 are Unpopular
       
 •	Performed correlation analysis using heatmap to understand variable relationships and detect highly correlated columns
- 
+
+![image](https://user-images.githubusercontent.com/58203363/204112814-5fb5bbf5-6e97-4803-b11d-aa3c2aa6b2f2.png)
+
 
 ## Observations from EDA:
 •	Articles with decent number of words have more number of shares than those with that are too long because they are too long to read
 
+![image](https://user-images.githubusercontent.com/58203363/204112822-8a1dbd0e-cd9e-4a39-b235-3c8fe90987e5.png)
  
 
 •	The number of shares is higher for channels like technology, entertainment and world news as compared to others.
+
+![image](https://user-images.githubusercontent.com/58203363/204112830-bbd6cc7e-b391-4db5-8e2a-d3a380cb7511.png)
  
 •	The proportion of popular articles is higher on weekends than on weekdays
+
+
 ## Feature Engineering/Selection:
 •	Removed features that are not helpful for prediction – url, timedelta
 
