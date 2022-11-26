@@ -18,6 +18,9 @@ Instances- 39,000
 Target variable – shares 
 
 We have used number of article shares as our target variable to determine popularity of articles. 
+
+![image](https://user-images.githubusercontent.com/58203363/204112773-3fc1900d-8491-45da-9c9f-53fe2badd8d4.png)
+
  
 ## Exploratory Data Analysis
 •	Performed univariate and multivariate analysis to understand individual variable distribution and statistics
